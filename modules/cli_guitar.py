@@ -8,6 +8,7 @@ import time
 
 from collections import OrderedDict
 from cli_tools import limpar_tela, amarelo, vermelho
+from musicas import notas_amostra
 
 C = (
       (None, 'Dó', 'Mi', 'Sol', 'Dó', 'Mi'),
